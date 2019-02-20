@@ -1,6 +1,7 @@
 # ravenous
-The final product of the Ravenous project will enable a user to search restaurants using Yelp API
-initial commit has:
+The final product of the Ravenous project enables a user to search restaurants using Yelp API. It utilized the React library, importing and exporting components, the Yelp API, props, and more to achieve a fully functioning Yelp-like clone.
+
+Initial commit has:
 A Business component that simulates a single business
 A BusinessList component that simulates a list of single businesses
 A SearchBar component that will be used in the future to search for business
